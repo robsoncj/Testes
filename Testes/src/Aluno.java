@@ -17,8 +17,7 @@ public class Aluno {
 		System.out.println("Quarta linha de mensagem");
 		System.out.println("Quinta linha de mensagem");
 		System.out.println("Sexta linha de mensagem");
-		System.out.println("Sétima linha de mensagem, testando2.");
-		// comentario intruso
-		System.out.println("");
+		System.out.println("SÃ©tima linha de mensagem, testando2.");
+		System.out.println("Oitava mensagem");
 	}
 }
