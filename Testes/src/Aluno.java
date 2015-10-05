@@ -18,6 +18,6 @@ public class Aluno {
 		System.out.println("Quinta linha de mensagem");
 		System.out.println("Sexta linha de mensagem");
 		System.out.println("Sétima linha de mensagem, testando2.");
-		System.out.println("Oitava mensagem");
+		System.out.println("Oitava mensagem, teste.");
 	}
 }
