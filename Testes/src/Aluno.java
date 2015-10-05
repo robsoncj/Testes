@@ -17,5 +17,6 @@ public class Aluno {
 		System.out.println("Quarta linha de mensagem");
 		System.out.println("Quinta linha de mensagem");
 		System.out.println("Sexta linha de mensagem");
+		System.out.println("Sétima linha de mensagem");
 	}
 }
