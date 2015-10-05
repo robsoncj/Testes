@@ -12,5 +12,6 @@ public class Aluno {
 	
 	public void msgTeste(){
 		System.out.println("Mensagem Teste");
+		System.out.println("Testes Egit com github");
 	}
 }
