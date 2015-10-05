@@ -11,6 +11,6 @@ public class Aluno {
 	}
 	
 	public void msgTeste(){
-		System.out.println("Teste");
+		System.out.println("Mensagem Teste");
 	}
 }
